@@ -1,0 +1,18 @@
+/*div{
+    background-color: red;
+}*/
+#div {
+    background-color: red;
+}
+#nombre_curso {
+    background-color: red;
+    font-family: '';
+    font-size: 10em;
+}
+#nombre_carrera {
+    background-color: green;
+    font-size: smaller;
+}
+.grupo1 { 
+    font-size: x-large;
+}
